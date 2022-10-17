@@ -118,7 +118,7 @@ class Mokepon {
 
 let hipodoge = new Mokepon("Hipodoge", "Imagenes/mokepons_mokepon_hipodoge_attack.webp", 5, "Imagenes/hipodoge.webp")
 let capipepo = new Mokepon("Capipepo", "Imagenes/mokepons_mokepon_capipepo_attack.webp", 5, "Imagenes/capipepo.webp")
-let ratigueya = new Mokepon("Ratigueya", "Imagenes/mokepons_mokepon_ratigueya_attack.webp", 5, "/Imagenes/ratigueya.webp")
+let ratigueya = new Mokepon("Ratigueya", "Imagenes/mokepons_mokepon_ratigueya_attack.webp", 5, "Imagenes/ratigueya.webp")
 
 hipodoge.ataques.push(...hipodoge_ataques)
 
